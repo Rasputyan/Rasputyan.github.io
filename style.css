@@ -44,7 +44,7 @@ h1{
 	position: absolute;
 	left: 1200px;
 }
-/*.ooo:hover{
+/*.ooo:hover{ 
 	background: black;
 	border: 1px solid;
 	border-color: transparent;
@@ -63,11 +63,13 @@ h1{
 
 
 body{
+	background: url(космос.jpg) no-repeat center center fixed;
+	background-size: cover;
 	/*background-image: url(52.jpg);
 	margin: 0px;
 	background-size: 100%;
 	background-repeat: no-repeat;
 	float: right;
-	margin: 50px;*\
-	position: fixed;
+	margin: 50px;
+	position: fixed;*/
 }
