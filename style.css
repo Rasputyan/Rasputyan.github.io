@@ -26,8 +26,9 @@ h1{
 	color: white;
 }
 .pp{
-	color: white;
 	background: black;
+	color: white;
+	text-align: center; /* перенос текста по центру */
 }
 .li1{
 	background: black;
@@ -39,6 +40,7 @@ h1{
 	position: absolute;
 	left: 1200px;
 }
+
 
 
 
