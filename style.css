@@ -38,5 +38,7 @@ body{
 	/*background-image: url(52.jpg);
 	margin: 0px;
 	background-size: 100%;
-	background-repeat: no-repeat;*/
+	background-repeat: no-repeat;
+	float: right;
+	margin: 50px;*\
 }
