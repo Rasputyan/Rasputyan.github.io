@@ -60,6 +60,10 @@ h1{
 .pu:hover{
 	background: black;
 }
+.kek{
+	float: left;
+	position: fixed; 
+}
 
 
 body{
