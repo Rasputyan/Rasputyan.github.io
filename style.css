@@ -43,6 +43,7 @@ h1{
 	float: right;
 	position: absolute;
 	left: 1200px;
+	z-index: 80;
 }
 /*.ooo:hover{ 
 	background: black;
@@ -64,11 +65,19 @@ h1{
 	float: left;
 	position: fixed; 
 }
-
+.ttr{
+	color: white;
+	text-decoration: none;
+	z-index: 99;
+}
+.rer{
+	margin-left: 40%;
+}
 
 body{
 	background: url(космос.jpg) no-repeat center center fixed;
 	background-size: cover;
+	margin: 0px;
 	/*background-image: url(52.jpg);
 	margin: 0px;
 	background-size: 100%;
