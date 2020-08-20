@@ -10,6 +10,10 @@ h1{
 .pm{
 	color: white;
 	font-size: 50px;
+	
+}
+.hui:hover{
+	color: red;
 }
 .kk{
 	background:black;
@@ -40,9 +44,22 @@ h1{
 	position: absolute;
 	left: 1200px;
 }
-
-
-
+/*.ooo:hover{
+	background: black;
+	border: 1px solid;
+	border-color: transparent;
+}
+.ooo{
+	border: 3px solid;
+	border-radius: 3px;
+}*/
+.pu{
+	border: 2px solid;
+	padding: 3px;
+}
+.pu:hover{
+	background: black;
+}
 
 
 body{
