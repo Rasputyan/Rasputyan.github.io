@@ -1,9 +1,28 @@
 html{
-	background: grey;
+	/*background: grey;*/
+	background-image: url(ass.jpg);
 }
 .oi{
 	color: white;
 }
 .ui{
 	color: white;
+}
+.pipi{
+	color: white;
+	text-decoration: none;
+	z-index: 99;
+}
+.hr{
+}
+.htp{
+	position: absolute;
+}
+
+body{
+	/*background: url(3221.mp4) width="100%" height="100%" center center fixed;
+	background-size: cover;
+	/*background: url(322.jpg) no-repeat center center fixed;
+	background-size: cover;
+	margin: 0px;*/
 }

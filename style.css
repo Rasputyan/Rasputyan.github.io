@@ -1,5 +1,6 @@
 html{
-	background: grey;
+	/*background: grey;*/
+background-image: url(69.jpg);	
 }
 h1{
 	color: white;
@@ -86,7 +87,7 @@ h1{
 
 
 body{
-	background: url(космос.jpg) no-repeat center center fixed;
+	/*background: url(космос.jpg) no-repeat center center fixed;
 	background-size: cover;
 	margin: 0px;
 	/*background-image: url(52.jpg);
